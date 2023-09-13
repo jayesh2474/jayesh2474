@@ -10,8 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/QYE7j6R.gif">
 <div align="center"></div>  
   
+- 🔭 I’m currently working on **Library Management WebApp**
 
-- 🌱 I’m currently learning C & Python  
+- 🌱 I’m currently learning **Python Libraries, Java, DSA**
 
 - 📫 How to reach me **divyeshjoshi7474@gmail.com**
 
@@ -21,16 +22,21 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
-
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+<h3 align="left">🛠️Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+</p>
+<br><br>
 
 
 
@@ -57,9 +63,10 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayesh2474&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+## Github Stats
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh2474&show_icons=true&layout=compact&theme=dark" alt="jayesh2474" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh2474&show_icons=true&theme=dark" alt="my Github Stats" alt="jayesh2474" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh2474&theme=dark" alt="jayesh2474" /></p> 
 <br/>  
 
   
