@@ -1,13 +1,16 @@
 
 <div align="center">
-<img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" align="center" style="width: 100%" />
 </div>  
   <h1 align="center">Hi 👋, I'm Jayesh Joshi</h1>
+<p align='center' style='margin: 14px 11px 9px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer+from+India" alt="Welcome to My GitHub Profile. I am a Fullstack Developer from India." />
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jayesh2474/count.svg" />
 </p>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/QYE7j6R.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif">
 <div align="center"></div>  
   
 - 🔭 I’m currently working on **Library Management WebApp**
@@ -57,7 +60,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh2474&show_icons=true&theme=dark" alt="my Github Stats" alt="jayesh2474" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh2474&theme=dark" alt="jayesh2474" /></p> 
 <br/>  
-
+<p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jayesh2474&bg_color=000000&color=FFFF00&line=4ef5ef&point=FFFFFF&hide_border=true" /></a></p>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayesh2474&theme=radical&no-frame=false&no-bg=false&margin-w=4)
