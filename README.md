@@ -61,6 +61,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh2474&theme=dark" alt="jayesh2474" /></p> 
 <br/>  
 <p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jayesh2474&bg_color=000000&color=FFFF00&line=4ef5ef&point=FFFFFF&hide_border=true" /></a></p>
+
+# Badges
+  
+[![An image of @jayesh2474's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayesh2474)](https://holopin.io/@jayesh2474)
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayesh2474&theme=radical&no-frame=false&no-bg=false&margin-w=4)
