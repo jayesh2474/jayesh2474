@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif">
 <div align="center"></div>  
   
-- 🔭 I’m currently working on **Library Management WebApp**
+- 🔭 I’m currently working on **Laptop Price Predictor**
 
 - 🌱 I’m currently learning **Python Libraries, Java, DSA**
 
