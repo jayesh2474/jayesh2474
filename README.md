@@ -41,18 +41,19 @@
 ## Connect with me  
 <div align="center">
   <a href="https://github.com/jayesh2474" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://twitter.com/jayeshj74" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.linkedin.com/in/jayesh-joshi-1b7261250/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/jayesh._.joshi__/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
+
 
   
 
