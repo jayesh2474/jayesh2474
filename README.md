@@ -29,7 +29,7 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,react,yarn,azure,mysql,gcp,figma,postman&perline=6)](https://skillicons.dev)
 
 
 
@@ -40,16 +40,20 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/jayesh2474" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jayeshj74" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/jayesh-joshi-1b7261250/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://github.com/jayesh2474" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://twitter.com/jayeshj74" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jayesh-joshi-1b7261250/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/jayesh._.joshi__/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</div>
+
   
 
 <br/>  
