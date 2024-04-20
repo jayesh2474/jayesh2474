@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" align="center" style="width: 100%" />
 </div>  
   <h1 align="center">Hi 👋, I'm Jayesh Joshi</h1>
 <p align='center' style='margin: 14px 11px 9px;'>
