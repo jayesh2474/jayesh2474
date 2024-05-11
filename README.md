@@ -61,9 +61,9 @@
 
 
 ## Github Stats
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh2474&show_icons=true&layout=compact&theme=dark" alt="jayesh2474" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh2474&show_icons=true&theme=dark" alt="my Github Stats" alt="jayesh2474" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh2474&theme=dark" alt="jayesh2474" /></p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh2474&show_icons=true&layout=compact&theme=neon" alt="jayesh2474" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh2474&show_icons=true&theme=neon" alt="my Github Stats" alt="jayesh2474" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh2474&theme=neon" alt="jayesh2474" /></p> 
 <br/>  
 <p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jayesh2474&bg_color=000000&color=FFFF00&line=4ef5ef&point=FFFFFF&hide_border=true" /></a></p>
 
