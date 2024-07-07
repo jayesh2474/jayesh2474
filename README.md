@@ -10,7 +10,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jayesh2474/count.svg" />
 </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/df/c9/de/dfc9de58f31107dea5d340e7dcecc362.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <div align="center"></div>  
   
 - 🔭 I’m currently working on **Laptop Price Predictor**
