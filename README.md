@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <div align="center"></div>  
   
-- 🔭 I’m currently working on **Laptop Price Predictor**
+- 🔭 I’m currently working on **Tech AI Chat Bot**
 
 - 🌱 I’m currently learning **Python Libraries, Java, DSA**
 
