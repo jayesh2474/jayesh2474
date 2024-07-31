@@ -1,4 +1,4 @@
-       
+        
 <div align="center">
 <img src="https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif" align="center" style="width: 100%" />
 </div>  
