@@ -54,9 +54,7 @@ hobbies: ["Coding", "Open Source"]
 ## Connect with me  
 <div align="center">
   <!-- Animated Social Links -->
-  <a href="https://github.com/jayesh2474">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"/>
-  </a>
+ 
   <a href="https://www.linkedin.com/in/jayesh-joshi-1b7261250/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
   </a>
