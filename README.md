@@ -7,16 +7,29 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer+from+India" alt="Welcome to My GitHub Profile. I am a Fullstack Developer from India." />
 </p>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br/>  
   <img src="https://profile-counter.glitch.me/jayesh2474/count.svg" />
 </p>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-<div align="center"></div>  
+<!-- Matrix Rain Effect -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
   
-- 🔭 I’m currently working on **Tech AI Chat Bot**
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🌱 I’m currently learning **Python Libraries, Java, DSA**
+```yaml
+name: Jayesh Joshi
+located_in: India 🇮🇳
+current_Role: Full Stack Developer
+education: ["Self-Taught", "Continuous Learner"]
+mission: Building the future, one line at a time
 
+fields_of_interests: ["Web Development", "Mobile App Development"]
+currently_learning: ["Python Libraries", "Java", "DSA"]
+hobbies: ["Coding", "Open Source"]
+```
+
+<div align="center"></div>  
+
+  
 - 📫 How to reach me **divyeshjoshi7474@gmail.com**
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -40,17 +53,18 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://github.com/jayesh2474" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <!-- Animated Social Links -->
+  <a href="https://github.com/jayesh2474">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"/>
   </a>
-  <a href="https://twitter.com/jayeshj74" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://www.linkedin.com/in/jayesh-joshi-1b7261250/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
   </a>
-  <a href="https://www.linkedin.com/in/jayesh-joshi-1b7261250/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://twitter.com/jayeshj74">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"/>
   </a>
-  <a href="https://www.instagram.com/jayesh._.joshi__/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/jayesh._.joshi__/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"/>
   </a>
 </div>
 
@@ -60,12 +74,17 @@
 <br/>  
 
 
-## Github Stats
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh2474&show_icons=true&layout=compact&theme=neon" alt="jayesh2474" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayesh2474&show_icons=true&theme=neon" alt="my Github Stats" alt="jayesh2474" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh2474&theme=neon" alt="jayesh2474" /></p> 
-<br/>  
-<p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jayesh2474&bg_color=000000&color=FFFF00&line=4ef5ef&point=FFFFFF&hide_border=true" /></a></p>
+📊 GitHub Analytics
+<div align="center">
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jayesh2474&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayesh2474&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+<div align="center">
+  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh2474&custom_title=Jayesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
+</div>
 
 # Badges
   
@@ -74,7 +93,8 @@
 
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jayesh2474&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jayesh2474&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 
 ---
 
