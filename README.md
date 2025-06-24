@@ -42,7 +42,7 @@ hobbies: ["Coding", "Open Source"]
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,react,yarn,azure,mysql,gcp,figma,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,c,cpp,python,npm,yarn,azure,aws,gcp,flutter,dart,mongodb,express,react,nodejs,nextjs,tailwind,mysql,firebase,figma,postman&perline=6)](https://skillicons.dev)
 
 
 
