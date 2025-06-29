@@ -23,7 +23,6 @@ education: ["Self-Taught", "Continuous Learner"]
 mission: Building the future, one line at a time
 
 fields_of_interests: ["Web Development", "Mobile App Development"]
-currently_learning: ["Python Libraries", "Java", "DSA"]
 hobbies: ["Coding", "Open Source"]
 ```
 
